@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BottomSheet</string>
+    <string name="app_name">BottomSheet Sample</string>
+    <string name="bottomsheet">Sample text to show in BottomSheetFragment</string>
+    <string name="title_activity_bottom_sheet_behavior">BottomSheetBehaviorActivity</string>
 </resources>

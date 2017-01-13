@@ -15,6 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PersistentBottomSheetActivity"
+            android:label="@string/title_activity_bottom_sheet_behavior"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
